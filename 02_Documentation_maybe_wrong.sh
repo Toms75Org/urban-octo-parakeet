@@ -1,4 +1,4 @@
-#Working on ubuntu
+#Working on the ubuntu system
 
 #Generate a hash
 openssl passwd -1 Password1
