@@ -3,7 +3,7 @@
 #We install the apache web server
 sudo dnf install -y httpd
 
-#On rocky the service will not be started
+#On rocky the service will not be started!
 
 #The listening ports
 ss -ntl
